@@ -1,6 +1,5 @@
-
-
-<img src="/img/banner.png" width="100%"/>
+# Oi, eu sou Kaique Ferreira
+<p>Desenvolvedor Front-End</p>
 
  ## 🙃 Sobre mim
 
