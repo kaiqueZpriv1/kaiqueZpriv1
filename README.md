@@ -1,3 +1,5 @@
+
+
 <img src="/img/banner.png" width="100%"/>
 
  ## 🙃 Sobre mim
@@ -44,12 +46,11 @@
  </p>
 
 <br>
-
 ## <img src="/img/gitlab-fill.svg"  width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center" >
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=kaiqueZpriv1&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueZpriv1&layout=compact&theme=aura" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=kaiqueZpriv1&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="kaique stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueZpriv1&layout=compact&theme=aura" alt="kaique stats"/>
  </div>
   
 <br>
