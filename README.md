@@ -44,8 +44,9 @@
 
  </p>
 
-<br>
-## <img src="/img/gitlab-fill.svg"  width="50" height="50" align="10">  &nbsp;GitHub Analytics
+<br> 
+
+## GitHub Analytics 
 
 <div align="center" >
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=kaiqueZpriv1&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="kaique stats"/>
