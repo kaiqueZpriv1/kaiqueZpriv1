@@ -1,5 +1,5 @@
-# Oi, eu sou Kaique Ferreira
-<p>Desenvolvedor Front-End</p>
+<h1 align="center"> Oi, eu sou Kaique Ferreira</h1>
+<p align="center">Desenvolvedor Front-End</p>
 
  ## 🙃 Sobre mim
 
