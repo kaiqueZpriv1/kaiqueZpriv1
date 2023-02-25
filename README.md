@@ -43,27 +43,3 @@
  </a>
 
  </p>
-
-<br> 
-
-## GitHub Analytics 
-
-<div align="center" >
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=kaiqueZpriv1&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="kaique stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueZpriv1&layout=compact&theme=aura" alt="kaique stats"/>
- </div>
-  
-<br>
-
-
-
-----
-
-<p align="center">
-   
-  <a href="https://github.com/kaiquezpriv1?tab=repositories&sort=stargazers">
-   <img alt="stars" title="Total stars on GitHub" 
-   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kaiquezpriv1"/></a>
-  <a href="https://github.com/kaiquezpriv1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kaiquezpriv1?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
