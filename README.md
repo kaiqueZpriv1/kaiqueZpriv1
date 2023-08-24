@@ -5,7 +5,7 @@
 
 - 💼 Trabalho como Front-End
  
-- 👨‍🎓 Estudo javaScript e typescript
+- 👨‍🎓 Estudo React Js
 
 - 📫 Me envie uma mensagem. **kakamelo141205@gmail.com**
 
@@ -38,10 +38,6 @@
  
  <a href="https://www.instagram.com/kaique_developer/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
-
- <a href="https://dribbble.com/kaiquePriv1" alt="Dribble">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
  </a>
 
  </p>
