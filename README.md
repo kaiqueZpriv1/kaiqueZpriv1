@@ -7,7 +7,7 @@
  
 - 👨‍🎓 Estudo React Js
 
-- 📫 Me envie uma mensagem. **kakamelo141205@gmail.com**
+- 📫 Me envie uma mensagem. **kaiquedev.dev@gmail.com**
 
 - 💬 Me adicione no seu Git-Hub
 <br>
